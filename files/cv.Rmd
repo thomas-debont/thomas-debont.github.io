@@ -10,7 +10,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
-github: USERNAME
+github: thomas-debont
 jobtitle: Etudiant à l'Université de Mons
 keywords: Biologie, Science des données
 linkcolor: blue
