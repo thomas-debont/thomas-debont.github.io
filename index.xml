@@ -11,6 +11,97 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>My first project: socials networks consequences on sleep quality</title>
+      <link>/project/example-project/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-project/</guid>
+      <description>
+
+&lt;p&gt;Here the gitHub repository :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality&#34;&gt;https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here all the contributors to this rapport:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality/graphs/contributors&#34;&gt;https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality/graphs/contributors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#Introduction&lt;/p&gt;
+
+&lt;p&gt;Recently, there have been a lot of discussions about the effects of social networks and video games on sleeping hours. We wanted to make some research about that subject and thus we gather some data about some factors that may help us understands the influence of video games and social network and the differences between genders. We also want to see the difference between the social netwok called facebook well know for everyone and the other social networks like snapchat , instagram , whatsapp , twitter and at least viber.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;figure/figure0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;#Goal
+Our goal is to determine if there is a relation between the hours passed on the social media (and the video games) about the sleeping hours.&lt;/p&gt;
+
+&lt;p&gt;#Material and methods
+This project and the analysis have been realised with Rstudio. The data has been harverst randomly and anonymously.
+.&lt;/p&gt;
+
+&lt;p&gt;#Results&lt;/p&gt;
+
+&lt;h2 id=&#34;data-distribution&#34;&gt;Data distribution&lt;/h2&gt;
+
+&lt;h3 id=&#34;between-sex&#34;&gt;Between sex&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;figure/figure1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First we can see  a significant difference between girls and boys &#39;s interrest about video game. Boys seem to be more attracted than girls .By contrast social networks like facebook or the others are as popular for girls than for boys and no difference are relevant.&lt;/p&gt;
+
+&lt;h3 id=&#34;between-age-group&#34;&gt;Between age group&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;figure/figure2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We can easily see that video game time&#39;s and other social network time&#39;s (like snapchat instagram ,...) distribution are hardly affected by the age class. Indeed young population seem to be more attracted to video game and other social network time . In comparison facebook seem to be nearly the same distribution for the two age classes facebook seem to be popular not only about young poeple but also about all the other.&lt;/p&gt;
+
+&lt;h2 id=&#34;social-networks-and-video-games-comparated-to-bed-time&#34;&gt;social networks and video games comparated to bed time&lt;/h2&gt;
+
+&lt;h3 id=&#34;facebook&#34;&gt;facebook&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;figure/figure3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;analyses&#34;&gt;Analyses&lt;/h4&gt;
+
+&lt;p&gt;We see absolutely no relation bewteen the facebook usage habits and the bed time it do not seem to exist any relation between these two factors.&lt;/p&gt;
+
+&lt;h3 id=&#34;others-social-networks&#34;&gt;others social networks&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;figure/figure4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;analyses-1&#34;&gt;Analyses&lt;/h4&gt;
+
+&lt;p&gt;Here we do not see any relation too. Despite that we can see that the hightest value go to bed later than the other but it is not enough to say that a true relation exist and we can say that social networks seem  not to affect bed time habits&lt;/p&gt;
+
+&lt;h3 id=&#34;video-games&#34;&gt;video games&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;figure/figure5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;analyses-2&#34;&gt;Analyses&lt;/h4&gt;
+
+&lt;p&gt;Video games habits seem to have the same conclusions than others social networks and we can say that video games seem not to affect bed time habits.&lt;/p&gt;
+
+&lt;p&gt;#Discussion and evaluation&lt;/p&gt;
+
+&lt;p&gt;First of all ,we found that facebook interest is really more widespread into the population than video games and other social networks are for old poeple these last are more populare for the young population&lt;/p&gt;
+
+&lt;p&gt;Secondly , we found that the sex is not a relevant factor to separate social network utilisation but in spite of that we also found that boys played more at video games than girls.&lt;/p&gt;
+
+&lt;p&gt;We endly checked the video game and social networks ( facebook and others) affect for bed time but for all the three variables no one really affect the bed time.&lt;/p&gt;
+
+&lt;p&gt;#Conclusion&lt;/p&gt;
+
+&lt;p&gt;We can finally say that facebook , other social networks and video game have a distribution which depend on the sex and the age but these three variables seem not to affect bed time.&lt;/p&gt;
+
+&lt;p&gt;We did not found no one relation between social network and video game addictions and the bed time but what can we do next ?&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt; Our data table is no really big we only have 68 samples. Does it is enough to work on that research ? We should have bigger amount of samples to continue our survey.&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt; We did not found relation between video game and social networks addiction and bed time ? Ok but does there is a relation between these factor and for instance school results or social interactions ? There is plenty of things to analyse and we should study social networks and video games effect for other factors !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mon premier blog</title>
       <link>/post/getting-started/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
@@ -23,16 +114,6 @@
 &lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
 
 &lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My project</title>
-      <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
 </description>
     </item>
     
